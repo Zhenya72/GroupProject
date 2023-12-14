@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+data/
+server.py
+test_existing_df.csv
+train_existing_df.csv
