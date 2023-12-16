@@ -210,7 +210,6 @@ const plot3 = [
             <select className='tableSortselect' id="sortSelectT1" value={sortByT1} onChange={handleSortChangeT1}>
               <option value="date">Дата</option>
               <option value="store_nbr">№ магазину</option>
-              <option value="item_nbr">№ товару</option>
               <option value="units">Кількість</option>
               <option value="station_nbr">№ станції</option>
               <option value="codesum">Код погоди</option>
@@ -265,7 +264,6 @@ const plot3 = [
             <select className='tableSortselect' id="sortSelectT1" value={sortByT2} onChange={handleSortChangeT2}>
               <option value="date">Дата</option>
               <option value="store_nbr">№ магазину</option>
-              <option value="item_nbr">№ товару</option>
               <option value="units">Кількість</option>
               <option value="station_nbr">№ станції</option>
               <option value="codesum">Код погоди</option>
