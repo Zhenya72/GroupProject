@@ -169,8 +169,6 @@ def get_train_and_test_data():
     return jsonify(response_data)
 
 
-
-
 if __name__ == '__main__':
     app.run()
 
